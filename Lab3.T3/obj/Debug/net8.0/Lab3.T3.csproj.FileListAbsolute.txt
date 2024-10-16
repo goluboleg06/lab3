@@ -1,0 +1,14 @@
+D:\с# patterns\lab3\Lab3.T3\bin\Debug\net8.0\Lab3.T3.exe
+D:\с# patterns\lab3\Lab3.T3\bin\Debug\net8.0\Lab3.T3.deps.json
+D:\с# patterns\lab3\Lab3.T3\bin\Debug\net8.0\Lab3.T3.runtimeconfig.json
+D:\с# patterns\lab3\Lab3.T3\bin\Debug\net8.0\Lab3.T3.dll
+D:\с# patterns\lab3\Lab3.T3\bin\Debug\net8.0\Lab3.T3.pdb
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\Lab3.T3.GeneratedMSBuildEditorConfig.editorconfig
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\Lab3.T3.AssemblyInfoInputs.cache
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\Lab3.T3.AssemblyInfo.cs
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\Lab3.T3.csproj.CoreCompileInputs.cache
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\Lab3.T3.dll
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\refint\Lab3.T3.dll
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\Lab3.T3.pdb
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\Lab3.T3.genruntimeconfig.cache
+D:\с# patterns\lab3\Lab3.T3\obj\Debug\net8.0\ref\Lab3.T3.dll

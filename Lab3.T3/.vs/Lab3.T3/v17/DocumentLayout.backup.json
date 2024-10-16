@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|d:\\\u0441# patterns\\lab3\\lab3.t3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|d:\\\u0441# patterns\\lab3\\lab3.t3\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|solutionrelative:authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|d:\\\u0441# patterns\\lab3\\lab3.t3\\iauthstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|solutionrelative:iauthstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|d:\\\u0441# patterns\\lab3\\lab3.t3\\loginpasswordstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|solutionrelative:loginpasswordstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|d:\\\u0441# patterns\\lab3\\lab3.t3\\smscodestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|solutionrelative:smscodestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|d:\\\u0441# patterns\\lab3\\lab3.t3\\serverstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C14A65C-3F83-42B7-AA40-3F4E5DC90D2E}|Lab3.T3.csproj|solutionrelative:serverstrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthStrategy.cs",
+              "DocumentMoniker": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\IAuthStrategy.cs",
+              "RelativeDocumentMoniker": "IAuthStrategy.cs",
+              "ToolTip": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\IAuthStrategy.cs",
+              "RelativeToolTip": "IAuthStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:07:14.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerStrategy.cs",
+              "DocumentMoniker": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\ServerStrategy.cs",
+              "RelativeDocumentMoniker": "ServerStrategy.cs",
+              "ToolTip": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\ServerStrategy.cs",
+              "RelativeToolTip": "ServerStrategy.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAwAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:00:56.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmsCodeStrategy.cs",
+              "DocumentMoniker": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\SmsCodeStrategy.cs",
+              "RelativeDocumentMoniker": "SmsCodeStrategy.cs",
+              "ToolTip": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\SmsCodeStrategy.cs",
+              "RelativeToolTip": "SmsCodeStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:59:58.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPasswordStrategy.cs",
+              "DocumentMoniker": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\LoginPasswordStrategy.cs",
+              "RelativeDocumentMoniker": "LoginPasswordStrategy.cs",
+              "ToolTip": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\LoginPasswordStrategy.cs",
+              "RelativeToolTip": "LoginPasswordStrategy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:58:32.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\AuthContext.cs",
+              "RelativeDocumentMoniker": "AuthContext.cs",
+              "ToolTip": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\AuthContext.cs",
+              "RelativeToolTip": "AuthContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:57:01.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\\u0441# patterns\\lab3\\Lab3.T3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T05:56:30.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
